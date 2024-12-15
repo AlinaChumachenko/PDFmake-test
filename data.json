@@ -1,0 +1,75 @@
+{
+    "menu": [
+      {
+        "section": "Сніданок",
+        "items": [
+          { "title": "Омлет", "description": "З овочами", "weight": "200 г", "price": "90 грн" },
+          { "title": "Каша вівсяна", "description": "З медом", "weight": "150 г", "price": "80 грн" },
+          { "title": "Панкейки", "description": "З сиропом", "weight": "180 г", "price": "120 грн" },
+          { "title": "Сирники", "description": "З варенням", "weight": "200 г", "price": "110 грн" },
+          { "title": "Брускети", "description": "З авокадо", "weight": "150 г", "price": "140 грн" }
+        ]
+      },
+      {
+        "section": "Дитяче меню",
+        "items": [
+          { "title": "Курячі нагетси", "description": "З картоплею фрі", "weight": "250 г", "price": "130 грн" },
+          { "title": "Сирна піца", "description": "Моцарела та чеддер", "weight": "300 г", "price": "150 грн" },
+          { "title": "Суп-пюре", "description": "З гарбуза", "weight": "200 г", "price": "100 грн" },
+          { "title": "Млинці", "description": "З шоколадом", "weight": "180 г", "price": "120 грн" },
+          { "title": "Фруктовий салат", "description": "З йогуртом", "weight": "150 г", "price": "110 грн" }
+        ]
+      },
+      {
+        "section": "Ланч",
+        "items": [
+          { "title": "Салат Цезар", "description": "З куркою", "weight": "250 г", "price": "150 грн" },
+          { "title": "Грильований лосось", "description": "З лимоном і зеленню", "weight": "300 г", "price": "220 грн" },
+          { "title": "Сендвіч з індичкою", "description": "З соусом авокадо", "weight": "200 г", "price": "130 грн" },
+          { "title": "Крем-суп з гарбуза", "description": "З насінням і крем-сиром", "weight": "250 г", "price": "100 грн" },
+          { "title": "Паста Карбонара", "description": "З беконом та сиром Пармезан", "weight": "350 г", "price": "180 грн" }
+        ]
+      },
+      {
+        "section": "Дитяче меню",
+        "items": [
+          { "title": "Курячі нагетси", "description": "З картоплею фрі", "weight": "250 г", "price": "130 грн" },
+          { "title": "Сирна піца", "description": "Моцарела та чеддер", "weight": "300 г", "price": "150 грн" },
+          { "title": "Суп-пюре", "description": "З гарбуза", "weight": "200 г", "price": "100 грн" },
+          { "title": "Млинці", "description": "З шоколадом", "weight": "180 г", "price": "120 грн" },
+          { "title": "Фруктовий салат", "description": "З йогуртом", "weight": "150 г", "price": "110 грн" }
+        ]
+      },
+      {
+        "section": "Гарячі страви",
+        "items": [
+          { "title": "Борщ український", "description": "З пампушками", "weight": "400 г", "price": "150 грн" },
+          { "title": "Котлета по-київськи", "description": "З картопляним пюре", "weight": "350 г", "price": "180 грн" },
+          { "title": "Гуляш із яловичини", "description": "З підливою", "weight": "300 г", "price": "200 грн" },
+          { "title": "Шашлик курячий", "description": "З маринованою цибулею", "weight": "300 г", "price": "220 грн" },
+          { "title": "Риба на грилі", "description": "З овочами", "weight": "300 г", "price": "250 грн" }
+        ]
+      },
+      {
+        "section": "Піца",
+        "items": [
+          { "title": "Маргарита", "description": "Класичний томатний соус і моцарела", "weight": "450 г", "price": "150 грн" },
+          { "title": "Пепероні", "description": "З італійською ковбасою", "weight": "500 г", "price": "200 грн" },
+          { "title": "Чотири сири", "description": "Моцарела, пармезан, чеддер, горгонзола", "weight": "450 г", "price": "230 грн" },
+          { "title": "Гавайська", "description": "З ананасами і куркою", "weight": "500 г", "price": "220 грн" },
+          { "title": "М'ясна", "description": "З беконом і ковбасками", "weight": "500 г", "price": "250 грн" }
+        ]
+      },
+      {
+        "section": "Східна кухня",
+        "items": [
+          { "title": "Суші Каліфорнія", "description": "З крабовим м'ясом", "weight": "200 г", "price": "300 грн" },
+          { "title": "Суші Філадельфія", "description": "З лососем", "weight": "220 г", "price": "320 грн" },
+          { "title": "Рамен", "description": "З яйцем і свининою", "weight": "400 г", "price": "280 грн" },
+          { "title": "Гьодзе", "description": "З овочами та м'ясом", "weight": "250 г", "price": "200 грн" },
+          { "title": "Спринг-роли", "description": "З креветками та манго", "weight": "200 г", "price": "250 грн" }
+        ]
+      }
+    ]
+  }
+  
