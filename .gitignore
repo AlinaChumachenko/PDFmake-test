@@ -1,3 +1,4 @@
+# Игнорируемые файлы
 node_modules/
-.vscode/
-.DS_Store
+dist/vfs_fonts.js
+.env

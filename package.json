@@ -1,0 +1,12 @@
+{
+  "name": "pdfmake-test",
+  "version": "1.0.0",
+  "description": "Проект для работы с pdfMake",
+  "main": "js/script.js",
+  "scripts": {
+    "start": "node js/script.js"
+  },
+  "dependencies": {
+    "pdfmake": "^0.2.16"
+  }
+}
